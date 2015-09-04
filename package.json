@@ -1,0 +1,18 @@
+{
+  "name": "readydevice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rt2zz/readydevice.git"
+  },
+  "homepage": "https://github.com/rt2zz/readydevice",
+  "author": {
+    "name": "Zack Story",
+    "email": "zack@root-two.com"
+  },  
+  "license": "MIT"
+}
