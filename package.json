@@ -1,6 +1,6 @@
 {
   "name": "readydevice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "dependencies": {},
@@ -13,6 +13,6 @@
   "author": {
     "name": "Zack Story",
     "email": "zack@root-two.com"
-  },  
+  },
   "license": "MIT"
 }
